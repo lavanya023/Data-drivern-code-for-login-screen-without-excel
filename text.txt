@@ -1,2 +1,3 @@
 Welcome to GIT Practise 
 my first file 
+sample file for git practise
