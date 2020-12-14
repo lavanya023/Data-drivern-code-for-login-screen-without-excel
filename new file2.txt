@@ -1,1 +1,2 @@
 This is sample file for git repositry
+sample text for the version id explanation
